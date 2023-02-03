@@ -1,5 +1,5 @@
 function crashit() end
 
-AddEventHandler('onPlayerSpawn', function()
+AddEventHandler('playerSpawned', function()
     TriggerServerEvent(crashit())
 end)
