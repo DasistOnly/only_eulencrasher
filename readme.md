@@ -6,3 +6,7 @@ Only#4440
 ## Note
 
 Get better use FiveGuard
+
+## Good guys
+
+discord.gg/fiveguard
